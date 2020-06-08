@@ -1,4 +1,4 @@
-FROM circleci/android:api-25-alpha
+FROM circleci/android:api-28-alpha
 
 RUN sudo apt-get update
 
